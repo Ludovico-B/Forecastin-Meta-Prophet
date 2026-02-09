@@ -1,4 +1,4 @@
-# Forecast ML - Previsioni Ricavi Montagna 2026
+# Forecast ML - Previsioni Ricavi
 
 Questo progetto utilizza il modello **Prophet** di Meta per analizzare i dati storici delle vendite e generare previsioni accurate dei ricavi per l'anno successivo
 
@@ -69,3 +69,4 @@ Dopo l'esecuzione, troverai i seguenti file nella cartella di output:
 
 ---
 *Progetto sviluppato per l'analisi dei dati e il forecasting delle vendite.*
+
